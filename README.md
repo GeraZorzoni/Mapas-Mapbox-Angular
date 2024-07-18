@@ -10,6 +10,7 @@ No usar directamente en Angular CLI (a menos que esten creadas las variables de 
 
 ```
 npm run envs
+
 ```
 
 4. Para development ejecutar:
